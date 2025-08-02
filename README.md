@@ -50,5 +50,5 @@ Este proyecto ha sido una excelente oportunidad para integrar HTML, CSS y JavaSc
 
 Este es un paso significativo en mi camino como desarrollador, demostrando mi capacidad para llevar una idea desde el concepto hasta una implementación interactiva y bien documentada.
 
-🙋‍♀️ Autor/a:
-Jano Nahuel Duarte - [Mi perfil de GitHub](https://github.com/JanoND2499) 👨‍💻 
+## 🙋‍♀️ Autor/a:
+` Jano Nahuel Duarte ` -  [Mi perfil de GitHub](https://github.com/JanoND2499) 👨‍💻 
